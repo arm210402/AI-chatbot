@@ -45,3 +45,11 @@ npm start
 - React Native
 - Expo
 - OpenAI API
+
+## Screenshots
+
+![2](https://user-images.githubusercontent.com/59504320/234640767-d57bb185-9d73-498f-9782-4a4a34543954.jpg)
+![3](https://user-images.githubusercontent.com/59504320/234640796-ab5482dc-7fd5-445d-928d-dce8187d634c.jpg)
+![4](https://user-images.githubusercontent.com/59504320/234640823-33186353-d107-4634-8d7e-6a08d0582300.jpg)
+
+
