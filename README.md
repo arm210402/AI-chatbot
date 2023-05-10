@@ -39,7 +39,7 @@ npm start
 
 1. Enter your question in the input field and press the send button.
 2. The app will generate a response based on the GPT-3.5 Turbo model.
-3. If your input starts with "generate image", the app will generate images instead of text.
+3. If your input starts with "/image", the app will generate images instead of text.
 ## Credits
 
 - React Native
