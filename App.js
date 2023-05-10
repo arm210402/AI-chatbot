@@ -48,7 +48,7 @@ export default function App() {
   const handleButtonClick = () => {
 
 
-    if (inputMessage.toLocaleLowerCase().startsWith("generate image")) {
+    if (inputMessage.toLocaleLowerCase().startsWith("/image")) {
       generateImages()
     }
     else {
